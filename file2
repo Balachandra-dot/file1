@@ -1,0 +1,2 @@
+printf("hello great morning");
+scanf("the corect option is:"%d\n&aa);
